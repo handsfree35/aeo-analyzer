@@ -1,3 +1,5 @@
+![SEO & AEO Analyzer](aeo.png)
+
 # AEO Analyzer — AI Search Readiness Audit Tool
 
 A working Next.js prototype that analyzes websites for AI-search readiness.
